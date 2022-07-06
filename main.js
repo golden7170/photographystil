@@ -2,7 +2,7 @@ var number=1;
 function plusTwo(){
 var count=document.getElementById('count');
   
- number++;
+ number++2;
   count.innerHTML = number;
 }
 const press= document.getElementById('press');
